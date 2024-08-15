@@ -1,0 +1,8 @@
+{
+    "mode": "default",
+    "model": "dense",
+    "data": "./data",
+    "epochs": 10,
+    "batch_size": 64,
+    "learning_rate": 0.001
+}

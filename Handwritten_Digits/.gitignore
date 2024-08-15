@@ -1,0 +1,5 @@
+# Handwritten Digits
+*.png
+*.pth
+data/
+output/
